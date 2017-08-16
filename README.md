@@ -1,11 +1,13 @@
 # dlnd-sentiment-analysis
 
+Sentiment Analysis as part of the Deep Learning program
+
 ## Instructions
 1. Clone the repo
 
 2. Change the directory 
 ```
-    cd dlnd-p1-first-nn
+    cd dlnd-sentiment-analysis
 ```
 3. Download anaconda or miniconda based on the instructions in the Anaconda lesson.
 
